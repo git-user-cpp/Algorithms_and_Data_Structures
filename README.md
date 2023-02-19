@@ -1,5 +1,13 @@
 # Algorithms_and_Data_Structures
+
+![GitHub](https://img.shields.io/github/license/git-user-cpp/Algorithms_and_Data_Structures?color=FFD700&logo=github&logoColor=FFD700&style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/git-user-cpp/Algorithms_and_Data_Structures?color=00BFFF&logo=github&logoColor=00BFFF&style=plastic)
+
+---
+
 Laboratory works. Algorithms and data structures. Implemented in C++
+
+---
 
 ## ⚠️ LICENSE ⚠️
 
@@ -24,3 +32,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
